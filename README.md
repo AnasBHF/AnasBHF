@@ -36,6 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="44" alt="postman logo"  />
+  <img width="13" />
+  <img src="https://github.com/user-attachments/assets/0a970022-b4d3-4e9c-abe9-24310f3fe42a" height="44" alt="cypress logo" />
+
 </div>
 
 ###
