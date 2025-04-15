@@ -37,7 +37,7 @@
   <img width="13" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="44" alt="postman logo"  />
   <img width="13" />
-  <img src="https://github.com/user-attachments/assets/0a970022-b4d3-4e9c-abe9-24310f3fe42a" height="44" alt="cypress logo" />
+  <img src="https://github.com/user-attachments/assets/d734ea96-368a-46a0-a6aa-eb680c48070e" height="44" alt="cypress logo" />
 
 </div>
 
