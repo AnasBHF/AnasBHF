@@ -19,7 +19,7 @@
 <p align="left">✨ Life is short learn javascript<br>📚 Passionate about exploring test automation fields<br>🎲 Fun fact: [GET]https://api.chucknorris.io/jokes/random</p>
 
 ###
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBHF&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBHF&layout=compact&theme=radical))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBHF&layout=compact&theme=radical)
 
 
 <h2 align="left">Languages and Tools</h2>
